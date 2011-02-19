@@ -75,7 +75,7 @@ You should also create a new <tt>.gvimrc</tt> file in your home directory. You c
 it on Linux/Mac like this:
 
 <pre><code>
-echo "source ~/.vim/gvimrc > ~/.gvimrc"
+echo "source ~/.vim/gvimrc" > ~/.gvimrc
 </code></pre>
 
 On Windows you should create a <tt>_gvimrc</tt> (underline instead of dot) and add
